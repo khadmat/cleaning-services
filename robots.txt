@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cleaning-services-1ow.pages.dev/sitemap.xml
